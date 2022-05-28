@@ -1,0 +1,1 @@
+Since the input text may be quite long, the input text and the word lists are provided in separate files. The program will read the input text and word lists from the files named “input.txt” and “patterns.json” respectively. The output is in the terminal or console.
